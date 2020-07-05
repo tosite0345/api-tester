@@ -9,5 +9,10 @@
             "email": "tl091264@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tosite\\ApiTester\\": "src/"
+        }
+    }
 }

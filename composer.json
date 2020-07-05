@@ -1,0 +1,13 @@
+{
+    "name": "tosite/api-tester",
+    "description": "package that runs cURL from web UI.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tosite",
+            "email": "tl091264@gmail.com"
+        }
+    ],
+    "require": {}
+}
